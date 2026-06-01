@@ -1,0 +1,6 @@
+Platform,Market Share %,Example Face Value CAD,Service Fee CAD,Facility Fee CAD,Order Processing Fee CAD,Delivery Fee CAD,Total Fees CAD,Total Price CAD,Fee as % of Face Value,Fee Disclosure Timing,Fees Shown Upfront,Resale Cap Implemented,Source
+Ticketmaster Canada,65,89,28.5,4.0,4.75,8.0,45.25,134.25,50.8,Final checkout screen only,No,Yes,ticketmaster.ca — May 2026
+Eventbrite Canada,12,89,19.8,0,2.99,0,22.79,111.79,25.6,Shown during ticket selection,Partial,No,eventbrite.ca — May 2026
+SeatGeek Canada,8,89,24.2,3.5,3.0,5.5,36.2,125.2,40.7,Final checkout screen only,No,No,seatgeek.com — May 2026
+StubHub Canada,10,89,31.15,0,5.5,7.0,43.65,132.65,49.0,Final checkout screen only,No,Yes,stubhub.ca — May 2026
+Fever Canada,5,89,14.5,0,2.5,0,17.0,106.0,19.1,Shown during ticket selection,Yes,No,feverup.com — May 2026

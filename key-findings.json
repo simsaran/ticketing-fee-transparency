@@ -1,0 +1,18 @@
+{
+  "platforms_assessed": 5,
+  "average_fee_pct_of_face_value": 37.0,
+  "max_fee_pct": 50.8,
+  "min_fee_pct": 19.1,
+  "platforms_showing_fees_upfront": 1,
+  "requirements_total": 15,
+  "must_have_requirements": 7,
+  "stakeholders_mapped": 8,
+  "risks_identified": 10,
+  "critical_risks": 1,
+  "high_risks": 4,
+  "example_face_value": 89,
+  "example_total_ticketmaster": 134.25,
+  "example_markup_ticketmaster": 50.8,
+  "process_steps_mapped": 10,
+  "nva_steps": 3
+}

@@ -1,0 +1,11 @@
+Step ID,Step Name,Actor,Value Added,Avg Time Minutes,Pain Points,Fee Impact
+PS-001,Event discovery,Consumer,Yes,8,None significant — browsing is straightforward,None
+PS-002,Ticket selection,Consumer,Yes,4,Face value shown without fees. Consumer makes purchase decision based on incomplete price.,Face value visible. Total cost hidden.
+PS-003,Seat selection,Consumer,Yes,3,'Best available' defaults often push consumers to higher price tiers,None at this stage
+PS-004,Queue wait,Consumer and Platform,No,12,High demand events trigger virtual queues that can last 30 to 60 minutes. Consumer is committed at this point and unlikely to abandon.,Consumer anchored to purchase before fees are revealed
+PS-005,Account creation or login,Consumer and Platform,No,3,Mandatory account creation creates friction and data collection before price is disclosed,None but increases consumer commitment
+PS-006,Fee disclosure at checkout,Platform,No,1,"First full price disclosure happens here. Consumer sees service fee, facility fee, order processing fee, and delivery fee for the first time. Average markup is 38% above face value.",Full fee stack revealed for the first time at the point of no return
+PS-007,Payment entry,Consumer,Yes,2,Limited time to complete payment on high demand events — pressure to proceed regardless of total,None
+PS-008,Order confirmation,Platform,Yes,1,Confirmation email often does not break down fees separately,Fee detail buried in email
+PS-009,Ticket delivery,Platform,Yes,0,Mobile only delivery on some platforms excludes older consumers. PDF delivery charged as separate fee on others.,Delivery fee charged even for digital delivery
+PS-010,Venue entry,Consumer and Venue,Yes,5,Mobile ticket scanning failures at high-volume entry points cause congestion,None
